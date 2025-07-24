@@ -3,7 +3,8 @@ from pytubefix import YouTube
 from moviepy.editor import AudioFileClip
 
 urls = [
-    "https://youtu.be/K8JoYyGCGgQ"
+    "https://youtu.be/K8JoYyGCGgQ",
+    "https://youtu.be/3JZ_D3ELwOQ",
     ]
 
 directory = rf"{os.path.dirname(os.path.abspath(__file__))}/downloaded-audio"
